@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use ASPxGridLookup in multiple selection mode as the ASPxGridView editor
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3981/)**
+<!-- run online end -->
 
 
 <p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/S39486">Documentation - Add information about the use of the ASPxGridLookup.Value property in Multiple SelectionMode</a> suggestion.</p>
