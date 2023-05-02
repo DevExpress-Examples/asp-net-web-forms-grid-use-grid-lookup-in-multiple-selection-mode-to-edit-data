@@ -11,7 +11,7 @@ This example demonstrates how to add a grid lookup control in multiple selection
 
 When the [ASPxGridLookup](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridLookup) control is in multiple selection mode (the [GridLookup.SelectionMode](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridLookup.SelectionMode) property is set to `Multiple`), use the following API members to access the selected items:
 
-* The grid's [ASPxGridBase.GetSelectedFieldValues](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.GetSelectedFieldValues(System.String--)) method to get selected field values.
+* The grid's [ASPxGridBase.GetSelectedFieldValues](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.GetSelectedFieldValues(System.String--)) method to get the selected field values.
 * The grid's [ASPxGridView.Selection](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.Selection) property to select items.
 
 ```aspx
