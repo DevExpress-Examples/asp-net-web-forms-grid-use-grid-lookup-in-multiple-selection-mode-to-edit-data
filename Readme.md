@@ -75,4 +75,4 @@ private int[] GetTags() {
 ## More Examples
 
 * [Grid View for ASP.NET MVC - How to use a grid lookup control in single selection mode to edit grid data](https://github.com/DevExpress-Examples/gridview-how-to-use-gridlookup-with-single-selection-mode-in-editform-t328413)
-* [Grid View for ASP.NET MVC - Hoe to use a grid lookup control in multiple selection mode to edit grid data](https://github.com/DevExpress-Examples/gridview-how-to-use-gridlookup-in-editform-in-multiple-selection-mode-t328613)
+* [Grid View for ASP.NET MVC - How to use a grid lookup control in multiple selection mode to edit grid data](https://github.com/DevExpress-Examples/gridview-how-to-use-gridlookup-in-editform-in-multiple-selection-mode-t328613)
