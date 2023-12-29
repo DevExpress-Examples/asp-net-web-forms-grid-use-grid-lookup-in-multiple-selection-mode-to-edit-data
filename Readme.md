@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use a grid lookup control in multiple selection mode to edit grid data
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543438/)**
-<!-- run online end -->
 
 This example demonstrates how to add a grid lookup control in multiple selection mode to the grid's edit form template.
 
